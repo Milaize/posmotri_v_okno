@@ -142,8 +142,8 @@ ol {
 }
 
 .button {
+  padding: 6px 73px;
   border: 1px solid currentColor;
-  padding: 7px 73px;
   color: #fff;
   font-family: "Fira Sans Condensed", sans-serif;
   font-weight: 700;
@@ -166,7 +166,7 @@ ol {
   font-family: Oswald, sans-serif;
   font-weight: 700;
   font-size: 75px;
-  line-height: 71px;
+  line-height: 70.5px;
   text-transform: uppercase;
 }
 
@@ -235,6 +235,7 @@ ol {
 
 .more-button {
   width: 100%;
+  /* padding: 6px 14px; */
 }
 
 /* состояния элементов формы и кнопок */
